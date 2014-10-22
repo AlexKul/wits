@@ -33,6 +33,7 @@
 			<div class="page-header">
 				<h1>Meeting Minutes</h1>
 			</div>
+
 			<div class="row">
 			
 				<?php foreach ($semesters as $semester) : ?>
